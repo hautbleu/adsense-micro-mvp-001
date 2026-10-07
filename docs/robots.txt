@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://hautbleu.github.io/adsense-micro-mvp-001/sitemap.xml
