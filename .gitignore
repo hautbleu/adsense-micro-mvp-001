@@ -1,0 +1,7 @@
+data/raw/
+data/out/
+.DS_Store
+*.zip
+*.log
+.env
+.env.*
